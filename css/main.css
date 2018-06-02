@@ -53,8 +53,7 @@ div {
 }
 
 .header__title {
-    float: right;
-    flex-grow: 1;
+    width: 95%;
 }
 
 .header__title h1 {
